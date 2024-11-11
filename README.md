@@ -1,1 +1,1 @@
-# Entra-ID
+# Entra ID
