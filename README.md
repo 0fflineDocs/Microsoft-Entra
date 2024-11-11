@@ -1,1 +1,3 @@
-# Entra ID
+# Entra ID Resources
+
+https://entra.news/
