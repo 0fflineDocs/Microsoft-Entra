@@ -26,7 +26,7 @@ if (-not (Get-Module -ListAvailable -Name Microsoft.Graph.Authentication)) {
 # Connect to MS Graph with the specified scope for authentication method policies
 Connect-MgGraph -Scopes "Policy.ReadWrite.AuthenticationMethod"
 
-$params = @{
+$policy = @{
 	displayName = "Phishing-Resistant MFA + TAP"
         description = "WHfB, Passkeys incl. FIDO2 & Temporary Access Pass"
 	requirementsSatisfied = "mfa"
@@ -37,4 +37,4 @@ $params = @{
 )
 }
 
-New-MgPolicyAuthenticationStrengthPolicy -BodyParameter $params
+New-MgPolicyAuthenticationStrengthPolicy -BodyParameter $policy
