@@ -1,6 +1,6 @@
 <#
 .DESCRIPTION
-Use Microsoft Graph to create a new Authentication Strength Policy in Entra ID.
+Use Microsoft Graph to create a new custom Authentication Strength in Entra ID.
 Strength includes WHfB, Passkeys incl. FIDO2 & Temporary Access Pass (one-time use).
 https://learn.microsoft.com/en-us/graph/api/resources/authenticationstrengths-overview?view=graph-rest-1.0
 #>
