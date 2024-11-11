@@ -28,12 +28,12 @@ Connect-MgGraph -Scopes "Policy.ReadWrite.AuthenticationMethod"
 
 $params = @{
 	displayName = "Phishing-Resistant MFA + TAP"
-    description = "WHfB, Passkeys incl. FIDO2 & Temporary Access Pass"
+        description = "WHfB, Passkeys incl. FIDO2 & Temporary Access Pass"
 	requirementsSatisfied = "mfa"
 	allowedCombinations = @(
 	"windowsHelloForBusiness",
-    "fido2",
-    "temporaryAccessPassOneTime"
+        "fido2",
+        "temporaryAccessPassOneTime"
 )
 }
 
