@@ -1,9 +1,10 @@
-# Entra ID Resources
+# Security Resources 🔐
 
-List of resources dedicated to Identity Security & Entra ID
+**List of resources dedicated to Identity Security & Entra ID**
 
-https://entra.news/
-https://msendpointmgr.com/category/identity/
+---
+
+### Security Tools 🛠️
 
 ##### DCToolBox https://github.com/DanielChronlund/DCToolbox
 
@@ -11,4 +12,14 @@ https://msendpointmgr.com/category/identity/
 
 ##### EntraOPS https://www.cloud-architekt.net/entraops/
 
+---
+
+### Knowledge Gathering 📚
+
+##### Entra News https://entra.news/
+
+##### Entra Mind Maps https://entra.news/p/entra-mind-maps
+
 ##### Graph Permissions Explorer https://graphpermissions.merill.net/permission/
+
+##### MSEndpointmgr https://msendpointmgr.com/category/identity/
