@@ -23,3 +23,12 @@
 ##### Graph Permissions Explorer https://graphpermissions.merill.net/permission/
 
 ##### MSEndpointmgr https://msendpointmgr.com/category/identity/
+
+---
+
+### Microsoft Resources 🔑
+
+##### Entra Blog https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/blog/identity
+
+#### [Tech Community: Entra](https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/discussions/azure-active-directory)
+
