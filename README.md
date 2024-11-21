@@ -31,6 +31,8 @@
 
 ##### Plan & Deploy Phishing-Resistant Authentication https://aka.ms/PasswordlessGuide
 
+##### Enterprise Access Model https://aka.ms/AccessModel
+
 ##### Entra Blog https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/blog/identity
 
 ##### Tech Community: Entra https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/discussions/azure-active-directory
