@@ -1,3 +1,4 @@
+
 # Entra ID Resources 🔐
 
 **List of resources dedicated to Identity Security & Entra ID**
@@ -28,9 +29,8 @@
 
 ### Microsoft Resources 🔑
 
+##### Plan & Deploy Phishing-Resistant Authentication https://aka.ms/PasswordlessGuide
+
 ##### Entra Blog https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/blog/identity
 
-##### [Plan & Deploy Phishing-Resistant Authentication](https://learn.microsoft.com/en-us/entra/identity/authentication/how-to-plan-prerequisites-phishing-resistant-passwordless-authentication)
-
-##### [Tech Community: Entra](https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/discussions/azure-active-directory)
-
+##### Tech Community: Entra https://techcommunity.microsoft.com/category/microsoftsecurityandcompliance/discussions/azure-active-directory
