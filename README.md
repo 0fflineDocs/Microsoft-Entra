@@ -19,6 +19,8 @@
 
 ##### Entra News https://entra.news/
 
+##### EMS Community (Discord) https://discord.com/servers/microsoft-ems-community-1008077287813550090
+
 ##### Entra Mind Maps https://entra.news/p/entra-mind-maps
 
 ##### Graph Permissions Explorer https://graphpermissions.merill.net/permission/
